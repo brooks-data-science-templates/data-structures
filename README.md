@@ -1,4 +1,4 @@
-# Describing Data
+# Data Structures
 
 Work your way through the included Jupyter Notebook.
 
